@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Abundis</h1>
-<h3 align="center">A passionate frontend developer from Anaheim, California</h3>
+<h3 align="center">A passionate front-end developer from Anaheim, California</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuna1985" alt="abuna1985" /></a> </p>
 
