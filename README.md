@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
 
-- 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a volunter Tech Lead
+- 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Tech Lead/Contributor
 
 - 🌱 I’m currently learning **React.js, Vue.js, GraphQL**
 
