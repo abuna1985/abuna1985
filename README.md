@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adamjabundis@gmail.com**
 
-- 📄 Know about my experiences [My Resume (Google Drive)](https://docs.google.com/document/d/1Pk063Tym0QP7lTQhD5AAKnvnfHpoN70WR35VJQyfpVA/edit)
+- 📄 Know about my experiences [My Resume](./Adam-Abundis-Resume.pdf)
 
 - ⚡ Fun fact **I traveled California for the past year in a 28 foot travel trailer with my wife, kids, and dog.**
 
