@@ -3,7 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuna1985" alt="abuna1985" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
 
 - 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Tech Lead/Contributor
 
@@ -20,10 +19,10 @@
 - ⚡ Fun fact **I traveled California for the past year in a 28 foot travel trailer with my wife, kids, and dog.**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
 <p align="left">
 <a href="https://codepen.io/adamabundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adamabundis" height="30" width="40" /></a>
 <a href="https://dev.to/abuna1985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abuna1985" height="30" width="40" /></a>
-<a href="https://twitter.com/adamabundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adamabundis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adam-abundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-abundis" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abuna1985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="abuna1985" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adamjabundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adamjabundis" height="30" width="40" /></a>
