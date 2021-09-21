@@ -1,7 +1,8 @@
-<h1>Hi 👋, My name is Adam Abundis</h1>
 <img src="https://user-images.githubusercontent.com/21162229/133966968-549c65f5-b17c-4c41-b43e-089ee849ffa5.jpg" />
 
-- 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Tech Lead/Contributor
+<h1>Hi 👋, My name is Adam Abundis</h1>
+
+- 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Front-End Tech Lead/Contributor
 
 - 🌱 I’m currently learning **React.js, Vue.js, GraphQL**
 
