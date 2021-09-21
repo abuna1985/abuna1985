@@ -1,4 +1,4 @@
-<h1>Hi 👋, My name is</h1>
+<h1>Hi 👋, My name is Adam Abundis</h1>
 <img src="https://user-images.githubusercontent.com/21162229/133966968-549c65f5-b17c-4c41-b43e-089ee849ffa5.jpg" />
 
 - 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Tech Lead/Contributor
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **adamjabundis@gmail.com**
 
-- 📄 Know about my experiences [My Resume](./Adam-Abundis-Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
 
 - ⚡ Fun fact **I traveled California for the past year in a 28 foot travel trailer with my wife, kids, and dog.**
 
