@@ -2,15 +2,22 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
+.
+
 - 🔭 I’m currently working on the [Hack for LA Website](https://github.com/hackforla/website) as a Volunteer Front-End Tech Lead/Contributor
 
 - 🌱 I’m currently learning **React.js, Vue.js, GraphQL**
+
+- &#128269; I'm currently open to the **following** opportunities:
+  * Remote Front-End Engineer roles where I can continue to learn and grow!
+  * Short-Term Contracts
+  * Freelance Work building with WordPress, JAM stack, or MERN stack
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
 
 - 💬 Ask me about **HTML, CSS, Sass, ES6 JavaScript, React.js, front-end best practices**
 
-- 📫 How to reach me **adamjabundis@gmail.com**
+- 📫 How to reach me <strong><a href = "mailto: adamjabundis@gmail.com">adamjabundis@gmail.com</a></strong>
 
 - 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
 
