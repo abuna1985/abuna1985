@@ -10,8 +10,8 @@
 
 - &#128269; I'm currently open to the **following** opportunities:
   * Remote Front-End Engineer roles where I can continue to learn and grow!
-  * Short-Term Contracts
-  * Freelance Work building with WordPress, JAM stack, or MERN stack
+  * Short-Term contracts
+  * Freelance work building with WordPress, JAM stack, or MERN stack
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
 
