@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/21162229/160207830-4e1f1b72-175a-4068-a27c-e8f0d88e0c83.png" />
+<img src="https://user-images.githubusercontent.com/21162229/160209642-f0c0a2de-01dc-4bee-bf8b-40b44c5adab6.png" />
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
