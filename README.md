@@ -9,7 +9,7 @@
 - &#128269; I'm currently open to the **following** opportunities:
   * 100% full-time remote front-end developer/engineer role using JavaScript or vue.js
   * Short-term contract for front-end developer/engineer role using JavaScript or vue.js
-  * Freelance projects building with WordPress, Nuxt.js, or Vue.js
+  * Freelance projects building with WordPress, Nuxt.js, or vue.js
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
 
