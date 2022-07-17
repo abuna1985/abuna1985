@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
-- 🔭 4 years of front-end development experience, 2 years of full-stack development experience, and 2 years training developers in full-stack fundamentals
+- 🔭 3 years of front-end (JavaScript/Vue.js) development experience, 2 years of full-stack (PHP/Node.js) development experience, and 2 years training developers in full-stack (MERN stack) fundamentals
 
 - 🌱 I’m currently learning **Nuxt.js, TypeScript, GraphQL**
 
