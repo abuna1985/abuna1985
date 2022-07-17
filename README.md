@@ -2,14 +2,14 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
-- 🔭 I’m currently a Learning Assistant that specializes in mentoring and JavaScript debugging for a web development bootcamp.
+- 🔭 4 years of front-end development experience, 2 years of full-stack development experience, and 2 years training developers in full-stack fundamentals
 
-- 🌱 I’m currently learning **Nuxt.js, GraphQL**
+- 🌱 I’m currently learning **Nuxt.js, TypeScript, GraphQL**
 
 - &#128269; I'm currently open to the **following** opportunities:
-  * 100% full-time remote front-end developer/engineer role using JavaScript or vue.js
-  * Short-term contract for front-end developer/engineer role using JavaScript or vue.js
-  * Freelance projects building with WordPress, Nuxt.js, or vue.js
+  * 100% full-time remote front-end developer/engineer role (JavaScript/Vue.js)
+  * Short-term contract for front-end developer/engineer role (JavaScript/Vue.js)
+  * Freelance projects building with WordPress, Nuxt.js (headless CMS), or Vue.js
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
 
-- ⚡ Fun fact **I traveled California for the past year in a 28 foot travel trailer with my wife, kids, and dog.**
+- ⚡ Fun fact **Spent the last 2 years traveling California in a 19 foot travel trailer with my wife and kids.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
