@@ -2,9 +2,9 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
-- 🔭 3 years of front-end (JavaScript/Vue.js) development experience, 2 years of full-stack (PHP/Node.js) development experience, and 2 years training developers in full-stack (MERN stack) fundamentals
+- 🔭 4 years of front-end (JavaScript/Vue.js) development experience, 2 years of full-stack (PHP/Node.js) development experience, and 2 years training developers in full-stack (MERN stack) fundamentals.
 
-- 🌱 I’m currently learning **Nuxt.js, TypeScript, GraphQL**
+- 🌱 I’m currently learning **Vue.js, TypeScript, GraphQL**
 
 - &#128269; I'm currently open to the **following** opportunities:
   * 100% full-time remote front-end developer/engineer role (JavaScript/Vue.js)
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
 
-- ⚡ Fun fact **Spent the last 2 years traveling California in a 19 foot travel trailer with my wife and kids.**
+- ⚡ Fun fact **Currently traveling the Southwest United States in a 19 foot travel trailer with my wife and kids.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
