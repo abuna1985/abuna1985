@@ -2,13 +2,15 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
-- 🔭 4 years of front-end (JavaScript/Vue.js) development experience, 2 years of full-stack (PHP/Node.js) development experience, and 2 years training developers in full-stack (MERN stack) fundamentals.
+- 🧍 I am a software engineer who specializes in building innovative user interfaces that allow users to forget they are looking at a browser. I do this by prioritizing web performance, creating engaging CSS animations, and focusing on the overall flow of a website from a user's perspective.
+- 🧍 I have over 4 years of software engineering experience with strong expertise in HTML, CSS, JavaScript, and Vue.js.
 
 - 🌱 I’m currently learning **Vue.js, TypeScript, GraphQL**
 
-- &#128269; I'm currently open to the **following** opportunities:
-  * 100% full-time remote front-end developer/engineer role (JavaScript/Vue.js)
-  * Short-term contract for front-end developer/engineer role (JavaScript/Vue.js)
+- &#128269;  I am looking for tech-focused companies that can use my expertise to reach a wide-ranging audience so they can grow and retain their customer base. Specifically:
+  
+  * 100% full-time remote Software Engineer roles (JavaScript/Vue.js)
+  * Short-term contracts for Software Engineer (JavaScript/Vue.js)
   * Freelance projects building with WordPress, Nuxt.js (headless CMS), or Vue.js
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
@@ -19,7 +21,7 @@
 
 - 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
 
-- ⚡ Fun fact **Currently traveling the Southwest United States in a 19 foot travel trailer with my wife and kids.**
+- ⚡ Fun fact **Currently traveling the United States in a 19-foot travel trailer with my wife and kids.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
