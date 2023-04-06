@@ -2,16 +2,17 @@
 
 <h1>Hi 👋, My name is Adam Abundis</h1>
 
-- 🧍 I am a software engineer who specializes in building innovative user interfaces that allow users to forget they are looking at a browser. I do this by prioritizing web performance, creating engaging CSS animations, and focusing on the overall flow of a website from a user's perspective.
-- 🧍 I have over 4 years of software engineering experience with strong expertise in HTML, CSS, JavaScript, and Vue.js.
+- 🧍 I am a software engineer who loves building innovative user interfaces that allow users to forget they are looking at a browser. I do this by prioritizing web performance, creating engaging CSS animations, and focusing on the overall flow of a website from a user's perspective.
+- 🧍 I have over 3 years of front-end development experience
+- 🧍 I have over 2 years of full-stack development experience
 
-- 🌱 I’m currently learning **Vue.js, TypeScript, GraphQL**
+- 🌱 I’m currently learning **Astro, webpack, and React.js**
 
-- &#128269;  I am looking for tech-focused companies that can use my expertise to reach a wide-ranging audience so they can grow and retain their customer base. Specifically:
+- &#128269;  I am looking to help solve technical problems collaboratively for tech-focused companies. Specifically:
   
   * 100% full-time remote Software Engineer roles (JavaScript/Vue.js)
   * Short-term contracts for Software Engineer (JavaScript/Vue.js)
-  * Freelance projects building with WordPress, Nuxt.js (headless CMS), or Vue.js
+  * Freelance projects building with WordPress (PHP), Astro (headless CMS), or Vue.js
 
 - 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
 
