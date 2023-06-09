@@ -1,28 +1,27 @@
 <img src="https://user-images.githubusercontent.com/21162229/160209642-f0c0a2de-01dc-4bee-bf8b-40b44c5adab6.png" />
 
-<h1>Hi 👋, My name is Adam Abundis</h1>
+<h1>Hi there! 👋 I'm Adam Abundis, a Software Engineer specializing in innovative user interface development.</h1>
 
-- 🧍 I am a software engineer who loves building innovative user interfaces that allow users to forget they are looking at a browser. I do this by prioritizing web performance, creating engaging CSS animations, and focusing on the overall flow of a website from a user's perspective.
-- 🧍 I have over 3 years of front-end development experience
-- 🧍 I have over 2 years of full-stack development experience
+- 🧍 I excel at crafting exceptional user interfaces that seamlessly blend with the web browsing experience. My approach revolves around optimizing web performance, creating captivating CSS animations, and prioritizing user-centric design principles.
+- 🧍 With over 3 years of experience in front-end development and an additional 2 years in full-stack development, I bring a comprehensive skill set to the table.
 
-- 🌱 I’m currently learning **Astro, webpack, and React.js**
+- 🌱 Currently, I'm actively expanding my expertise in **Astro, TypeScript, and Next.js**, staying up-to-date with the latest trends and technologies in the field.
 
-- &#128269;  I am looking to help solve technical problems collaboratively for tech-focused companies. Specifically:
+- &#128269;   I'm actively seeking opportunities to collaboratively solve technical challenges within tech-focused companies. I am particularly interested in:
   
-  * 100% full-time remote Software Engineer roles (JavaScript/Vue.js)
-  * Short-term contracts for Software Engineer (JavaScript/Vue.js)
-  * Freelance projects building with WordPress (PHP), Astro (headless CMS), or Vue.js
+  * Full-time remote Software Engineer roles (JavaScript/React.js/Vue.js/)
+  * Short-term and long-term contracts for Software Engineer roles (JavaScript/React.js/Vue.js)
+  * Freelance projects building with WordPress (PHP), Astro (headless CMS), React.js, or Vue.js
 
-- 👨‍💻 All of my projects are available at [https://adamabundis.xyz](https://adamabundis.xyz)
+- 👨‍💻 You can explore my portfolio at [https://adamabundis.xyz](https://adamabundis.xyz), which showcases my diverse range of projects.
 
-- 💬 Ask me about **HTML, CSS, Sass, JavaScript, Vue.js, front-end best practices**
+- 💬 Feel free to reach out to me if you have any questions or would like to discuss **HTML, CSS, Sass, JavaScript, Vue.js, or front-end best practices**.
 
-- 📫 How to reach me <strong><a href = "mailto: adamjabundis@gmail.com">adamjabundis@gmail.com</a></strong>
+- 📫  You can contact me via email at <strong><a href="mailto:adamjabundis@gmail.com">adamjabundis@gmail.com</a></strong>.
 
-- 📄 Know about my experiences [My Resume](https://adamabundis.xyz/docs/Adam-Abundis-Resume.pdf)
+- 📄 For a detailed overview of my experiences, please refer to [My Resume](https://adamabundis.xyz/docs/AdamAbundisResume.pdf)
 
-- ⚡ Fun fact **Currently traveling the United States in a 19-foot travel trailer with my wife and kids.**
+- ⚡ **Fun fact** I am currently traveling the United States with my family in a 19-foot travel trailer, embracing new adventures while remaining dedicated to my professional pursuits.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://twitter.com/adamabundis" target="blank"><img src="https://img.shields.io/twitter/follow/adamabundis?logo=twitter&style=for-the-badge" alt="adamabundis" /></a> </p>
@@ -32,32 +31,6 @@
  <a href="https://linkedin.com/in/adam-abundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-abundis" height="30" width="40" /></a>
  <a href="https://codesandbox.com/abuna1985" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="abuna1985" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/adamjabundis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adamjabundis" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
- <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
- <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40"/></a> 
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a> 
- <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
- <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
- <a href="https://jestjs.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
- <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
- <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
- <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>  
- <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/></a>  
- <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>  
- <a href="https://graphql.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a> 
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
- <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
