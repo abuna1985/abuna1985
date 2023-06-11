@@ -2,15 +2,16 @@
 
 <h1>Hi there! 👋 I'm Adam Abundis, a Software Engineer specializing in innovative user interface development.</h1>
 
-- 🧍 I excel at crafting exceptional user interfaces that seamlessly blend with the web browsing experience. My approach revolves around optimizing web performance, creating captivating CSS animations, and prioritizing user-centric design principles.
-- 🧍 With over 3 years of experience in front-end development and an additional 2 years in full-stack development, I bring a comprehensive skill set to the table.
+- 🧍 I enjoy crafting exceptional user interfaces that seamlessly blend with the web browsing experience. My approach revolves around optimizing web performance, creating captivating CSS animations, and prioritizing user-centric design principles.
+-
+- 🧍 With over 3 years of experience in front-end development and an additional 2 years in full-stack development, I bring a comprehensive developer skill set to the table.
 
 - 🌱 Currently, I'm actively expanding my expertise in **Astro, TypeScript, and Next.js**, staying up-to-date with the latest trends and technologies in the field.
 
 - &#128269;   I'm actively seeking opportunities to collaboratively solve technical challenges within tech-focused companies. I am particularly interested in:
   
-  * Full-time remote Software Engineer roles (JavaScript/React.js/Vue.js/)
-  * Short-term and long-term contracts for Software Engineer roles (JavaScript/React.js/Vue.js)
+  * Full-time remote Software Engineering roles (JavaScript/React.js/Vue.js/)
+  * Short-term and long-term contracts for Software Engineering roles (JavaScript/React.js/Vue.js)
   * Freelance projects building with WordPress (PHP), Astro (headless CMS), React.js, or Vue.js
 
 - 👨‍💻 You can explore my portfolio at [https://adamabundis.xyz](https://adamabundis.xyz), which showcases my diverse range of projects.
