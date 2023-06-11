@@ -1,22 +1,22 @@
 <img src="https://user-images.githubusercontent.com/21162229/160209642-f0c0a2de-01dc-4bee-bf8b-40b44c5adab6.png" />
 
-<h1>Hi there! 👋 I'm Adam Abundis, a Software Engineer specializing in innovative user interface development.</h1>
+<h1>Adam Abundis | UI Engineer | Web Accessibility Advocate</h1>
 
-- 🧍 I enjoy crafting exceptional user interfaces that seamlessly blend with the web browsing experience. My approach revolves around optimizing web performance, creating captivating CSS animations, and prioritizing user-centric design principles.
--
-- 🧍 With over 3 years of experience in front-end development and an additional 2 years in full-stack development, I bring a comprehensive developer skill set to the table.
+- 🧍 I enjoy crafting exceptional user interfaces and advocating for web accessibility. Seamless integration with the browsing experience is my priority, achieved through optimized web performance, captivating CSS animations, and user-centric design principles.
+
+- 🧍 With 5 years of software engineering experience, I offer expertise in front-end and full-stack development. For 2 years, I focused on UI/UX as a full-stack developer, and for the past 3 years, I have been dedicated to teaching and mentoring web development bootcamp students, guiding them through JavaScript concepts on both the front-end and back-end.
 
 - 🌱 Currently, I'm actively expanding my expertise in **Astro, TypeScript, and Next.js**, staying up-to-date with the latest trends and technologies in the field.
 
-- &#128269;   I'm actively seeking opportunities to collaboratively solve technical challenges within tech-focused companies. I am particularly interested in:
+- &#128269;   I am actively seeking opportunities with small to mid-size companies and startups, particularly in the e-commerce space. I am particularly interested in:
   
-  * Full-time remote Software Engineering roles (JavaScript/React.js/Vue.js/)
-  * Short-term and long-term contracts for Software Engineering roles (JavaScript/React.js/Vue.js)
+  * Full-time remote UI Engineer or Software Engineer roles (JavaScript/React.js/Vue.js/)
+  * Short-term and long-term contracts for UI Engineer or Software Engineer roles (JavaScript/React.js/Vue.js)
   * Freelance projects building with WordPress (PHP), Astro (headless CMS), React.js, or Vue.js
 
 - 👨‍💻 You can explore my portfolio at [https://adamabundis.xyz](https://adamabundis.xyz), which showcases my diverse range of projects.
 
-- 💬 Feel free to reach out to me if you have any questions or would like to discuss **HTML, CSS, Sass, JavaScript, Vue.js, or front-end best practices**.
+- 💬 Feel free to reach out to me if you have any questions or would like to discuss **HTML, CSS, Sass, PostCSS, JavaScript, Vue.js, webpack, responsive web design, web accessibility, web performance, SEO, testing, deployment, and  developer best practices**.
 
 - 📫  You can contact me via email at <strong><a href="mailto:adamjabundis@gmail.com">adamjabundis@gmail.com</a></strong>.
 
