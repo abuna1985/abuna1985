@@ -1,6 +1,6 @@
 **Adam Abundis | Senior Front-End Engineer | Stopping Technical Chaos and Building Code That Lasts**
 
-I am a Senior Front-End Engineer specializing in React, Vue, TypeScript, and Modern Testing with Vitest. My mission is stopping high-stakes technical chaos and mentoring developers to build code that lasts. I focus on creating stability through sound architecture and reliable systems.
+I am a Senior Front-End Engineer specializing in React, Vue, TypeScript, and Modern Testing with Vitest. My mission is stopping high-stakes technical chaos and mentoring developers to build code that lasts. I focus on creating stability through sound architecture and reliable systems.  I am learning AI and Astro to build faster, more accessible sites and using Vercel to simplify production deployments.
 
 **Technical Stack**
 - **Frameworks:** React, Vue, Astro, Next.js
