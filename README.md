@@ -1,13 +1,23 @@
-**Adam Abundis | Senior Front-End Engineer | Stopping Technical Chaos and Building Code That Lasts**
+ **Adam Abundis | Senior Frontend Engineer | I Turn Complex Requirements into Reliable, User-Focused Systems**
 
-I am a Senior Front-End Engineer specializing in React, Vue, TypeScript, and Modern Testing with Vitest. My mission is stopping high-stakes technical chaos and mentoring developers to build code that lasts. I focus on creating stability through sound architecture and reliable systems.  I am learning AI and Astro to build faster, more accessible sites and using Vercel to simplify production deployments.
+I am the Senior Frontend Engineer who stops technical chaos and builds code that lasts.
 
-**Technical Stack**
-- **Frameworks:** React, Vue, Astro, Next.js
+I partner with teams to turn fragile codebases into reliable products. I bring the discipline and standards required to ship complex software without the drama.
+
+**WHAT I DELIVER:**
+- **STABILITY:** I enforce strict standards to kill bugs before they reach production.
+- **SPEED:** I ship high-impact features on time without over-engineering.
+- **OWNERSHIP:** I bridge the gap between design and code so you don't have to micromanage.
+
+**CURRENTLY:**
+I am building high-performance interfaces with Astro and developing AI Agents for workflow automation.
+
+**TECHNICAL STACK:**
+- **Core:** React, Vue, TypeScript, Next.js, Node.js
 - **Stability:** TypeScript, Vitest, Jest, Testing Library
-- **UI/UX:** CSS/Sass, Web Accessibility (WCAG), Responsive Design
+- **UI/UX:** Tailwind CSS, Accessibility (a11y), Responsive Design
 - **Infrastructure:** Vercel, Vite, Git, CI/CD
 
-**Let's Connect**
+**LET'S CONNECT:**
 - [LinkedIn](https://linkedin.com/in/adam-abundis)
 
