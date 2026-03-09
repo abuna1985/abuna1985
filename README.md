@@ -1,23 +1,30 @@
- **Adam Abundis | Senior Frontend Engineer | I Turn Complex Requirements into Reliable, User-Focused Systems**
+# Adam Abundis — Senior Frontend Engineer
 
-I am the Senior Frontend Engineer who stops technical chaos and builds code that lasts.
+I make teams better by fixing the hard problems nobody wants to touch: legacy codebases, broken accessibility, slow sites that should be fast.
 
-I partner with teams to turn fragile codebases into reliable products. I bring the discipline and standards required to ship complex software without the drama.
+Six years across WordPress, PHP, React, and Next.js. I care about code that holds up.
 
-**WHAT I DELIVER:**
-- **STABILITY:** I enforce strict standards to kill bugs before they reach production.
-- **SPEED:** I ship high-impact features on time without over-engineering.
-- **OWNERSHIP:** I bridge the gap between design and code so you don't have to micromanage.
+---
 
-**CURRENTLY:**
-I am building high-performance interfaces with Astro and developing AI Agents for workflow automation.
+## CURRENTLY
 
-**TECHNICAL STACK:**
-- **Core:** React, Vue, TypeScript, Next.js, Node.js
-- **Stability:** TypeScript, Vitest, Jest, Testing Library
-- **UI/UX:** Tailwind CSS, Accessibility (a11y), Responsive Design
-- **Infrastructure:** Vercel, Vite, Git, CI/CD
+Using AI as a learning partner to build production-grade systems the right way. Not vibe coding. Building with intention.
 
-**LET'S CONNECT:**
-- [LinkedIn](https://linkedin.com/in/adam-abundis)
+---
+
+## WHAT I BUILD WITH
+
+React, Next.js, TypeScript, Astro, Tailwind CSS, GSAP, PHP, WordPress, Docker, GitHub Actions, Vitest, WCAG 2.1 AA
+
+---
+
+## FEATURED PROJECT
+
+**SHIFT** — a fully offline business tool for trades. Invoices, payments, and history. No internet, no subscriptions, no lock-in. [View repo](https://github.com/abuna1985/shift)
+
+---
+
+## LET'S CONNECT
+
+[LinkedIn](https://linkedin.com/in/adam-abundis)
 
