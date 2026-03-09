@@ -20,7 +20,7 @@ React, Next.js, TypeScript, Astro, Tailwind CSS, GSAP, PHP, WordPress, Docker, G
 
 ## FEATURED PROJECT
 
-**SHIFT** — a fully offline business tool for trades. Invoices, payments, and history. No internet, no subscriptions, no lock-in. [View repo](https://github.com/abuna1985/shift)
+**SHIFT LEDGER** — a fully offline business tool for trades. Invoices, payments, and history. No internet, no subscriptions, no lock-in. [View repo](https://github.com/abuna1985/shift-ledger)
 
 ---
 
